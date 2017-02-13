@@ -18,6 +18,6 @@ test('that it renders a notification', t => {
 });
 
 
-test('that it computes the notification', t => {
-    t.is(vm.notification, 'FOOBAR');
-});
+// test('that it computes the notification', t => {
+//     t.is(vm.notification, 'FOOBAR');
+// });
